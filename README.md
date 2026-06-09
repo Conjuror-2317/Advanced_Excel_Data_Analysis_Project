@@ -4,8 +4,6 @@ A multi-sheet personal finance tracker built in Excel to analyse 12 months of in
 
 ---
 
-## 📸 Preview
-
 ### Summary sheet
 ![](images/summary.png)
 *Monthly income vs expenses summary with SUMIFS-driven totals, savings health status flags, and category spend breakdown*
@@ -22,6 +20,9 @@ A multi-sheet personal finance tracker built in Excel to analyse 12 months of in
 ![](images/pivot1.png)
 *Pivot table replicating the monthly income vs expenses summary — built alongside SUMIFS to compare both approaches*
 
+
+![](images/pivot2.png) 
+*Pivot table replicating the category-wise expense — built alongside SUMIFS to compare both approaches*
 ---
 
 ## 🗂️ File structure
